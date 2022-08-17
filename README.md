@@ -2,7 +2,7 @@
 ### I’m a Computer Application & System Engineering Graduate
 - 🐱‍🏍 I am currently being mentored by a Lead Data Scientist and Data Analyst as I make my way into the career path.🤞 
 - 👀 I’m interested in Automating with Selenium and Database Administration with Microsoft Server.
-- ✨ How to reach me [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for=the-badge&logoColor=white)](linkedin.com/in/riaan-bhandia-4039731ab)
+- ✨ How to reach me [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for=the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/riaan-bhandia-4039731ab)
 
 ### Languages and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
