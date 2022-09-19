@@ -11,3 +11,4 @@
 ![SQL server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/SELENUM-black?style=for-the-badge&logo=SELENIUM&logoColor=white)
 ![Json](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Anaconda](https://anaconda.org/anaconda/pyodbc/badges/version.svg)
