@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @bhandiaRE
 ### I’m a Computer Application & System Engineering Graduate
 - 🐱‍🏍 I am currently being mentored by a Lead Data Scientist as I make my way into the career path.🤞 
-- 👀 I’m interested in Automating with Selenium and Database Administration with Microsoft Server.
+- 👀 I’m interested in Data Engineering and Database Administration with Microsoft Server.
 - ✨ How to reach me [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for=the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riaan-bhandia-4039731ab/)
 
 ### Languages and Frameworks
@@ -13,3 +13,5 @@
 ![Json](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Anaconda](https://anaconda.org/anaconda/pyodbc/badges/version.svg)
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
