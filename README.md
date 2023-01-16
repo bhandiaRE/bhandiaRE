@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @bhandiaRE
 ### I’m a Computer Application & System Engineering Graduate
-- 🐱‍🏍 I am currently being mentored by a Lead Data Scientist and Data Analyst as I make my way into the career path.🤞 
+- 🐱‍🏍 I am currently being mentored by a Lead Data Scientist as I make my way into the career path.🤞 
 - 👀 I’m interested in Automating with Selenium and Database Administration with Microsoft Server.
 - ✨ How to reach me [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for=the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riaan-bhandia-4039731ab/)
 
