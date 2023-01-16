@@ -12,3 +12,4 @@
 ![SELENIUM](https://img.shields.io/badge/SELENUM-black?style=for-the-badge&logo=SELENIUM&logoColor=white)
 ![Json](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Anaconda](https://anaconda.org/anaconda/pyodbc/badges/version.svg)
+![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
